@@ -50,15 +50,44 @@ The magic:
 
 ## My Arsenal 🛠️
 
+<div align="center">
+
+### 🧠 **Core Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+### 📊 **Data Science Stack**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+
+### 🤖 **AI/ML Expertise**
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Algorithm Optimization](https://img.shields.io/badge/Algorithm%20Optimization-4CAF50?style=for-the-badge&logo=algorithm&logoColor=white)
+![Predictive Analytics](https://img.shields.io/badge/Predictive%20Analytics-9C27B0?style=for-the-badge&logo=analytics&logoColor=white)
+
+### 🔧 **Development Tools**
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+### 🎯 **Mindset & Approach**
 ```python
-skills = {
-    "languages": ["Python", "SQL", "R"],
-    "data_science": ["Pandas", "NumPy", "Scikit-learn", "Matplotlib"],
-    "ai_ml": ["Machine Learning", "Algorithm Optimization", "Predictive Analytics"],
-    "tools": ["Jupyter", "Git", "Excel", "Tableau"],
-    "mindset": ["Problem-solving", "Data-driven", "Curiosity-fueled"]
-}
+class DataScientist:
+    def __init__(self):
+        self.approach = "Problem-solving first, code second"
+        self.philosophy = "Data-driven decisions, human-centered solutions"
+        self.fuel = "Curiosity + Coffee"
+        self.superpower = "Making complex simple"
+    
+    def solve_problem(self, data):
+        return self.curiosity * data.insights() + self.coffee_level
 ```
+
+</div>
 
 ---
 
