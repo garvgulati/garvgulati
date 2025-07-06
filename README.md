@@ -1,6 +1,5 @@
 # Hey there, I'm Garv 👋
 
-**(yes, another developer who thinks data tells stories)**
 
 I turn raw data into actionable insights — and somehow make algorithms look elegant.
 
@@ -18,7 +17,7 @@ From crunching numbers to crafting AI solutions, I've been on a mission to bridg
 
 ---
 
-## What I'm Building 🔧
+## What I'm Doing Currently 🔧
 
 ### 🚴 **Cyclistic Data Analysis**
 *Making sense of bike-sharing chaos*
@@ -48,46 +47,71 @@ The magic:
 
 ---
 
-## My Arsenal 🛠️
+## Tech Stack & Expertise 🎯
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-### 🧠 **Core Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-### 📊 **Data Science Stack**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-
-### 🤖 **AI/ML Expertise**
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Algorithm Optimization](https://img.shields.io/badge/Algorithm%20Optimization-4CAF50?style=for-the-badge&logo=algorithm&logoColor=white)
-![Predictive Analytics](https://img.shields.io/badge/Predictive%20Analytics-9C27B0?style=for-the-badge&logo=analytics&logoColor=white)
-
-### 🔧 **Development Tools**
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
-### 🎯 **Mindset & Approach**
+### 💻 **Languages & Frameworks**
 ```python
-class DataScientist:
-    def __init__(self):
-        self.approach = "Problem-solving first, code second"
-        self.philosophy = "Data-driven decisions, human-centered solutions"
-        self.fuel = "Curiosity + Coffee"
-        self.superpower = "Making complex simple"
-    
-    def solve_problem(self, data):
-        return self.curiosity * data.insights() + self.coffee_level
+languages = {
+    "primary": "Python 🐍",
+    "query": "SQL 🔍", 
+    "statistical": "R 📊"
+}
 ```
 
-</div>
+### 🧠 **Data Science Toolkit**
+```python
+toolkit = [
+    "Pandas", "NumPy", "Scikit-learn", 
+    "Matplotlib", "Seaborn", "Plotly"
+]
+```
+
+</td>
+<td width="50%">
+
+### 🤖 **AI & Machine Learning**
+```python
+expertise = [
+    "Predictive Modeling",
+    "Algorithm Design", 
+    "Pattern Recognition",
+    "Data Mining"
+]
+```
+
+### ⚙️ **Development Environment**
+```python
+tools = [
+    "Jupyter Notebooks", "Git", 
+    "Tableau", "Excel", "VS Code"
+]
+```
+
+</td>
+</tr>
+</table>
+
+### 🎨 **My Data Philosophy**
+```python
+def garv_approach():
+    """
+    How I tackle data challenges
+    """
+    mindset = {
+        "step_1": "Ask the right questions first",
+        "step_2": "Let data guide the narrative", 
+        "step_3": "Build solutions that scale",
+        "secret_ingredient": "☕ + endless curiosity"
+    }
+    
+    return "Turning data chaos into business clarity"
+
+# Output: Smart decisions, powered by insights
+```
 
 ---
 
@@ -115,17 +139,10 @@ Whether you're into data science, AI optimization, or just want to chat about tu
 
 **Find me here:**
 - 💼 [LinkedIn](https://www.linkedin.com/in/garvgulati)
-- 📧 Slide into my DMs (or just email)
-- 🐦 Twitter (for the hot takes on data trends)
+- 📧 Slide into my DMs (or just [email](gulati.garv03@gmail.com))
 
 ---
 
-*"Data is the new oil, but insights are the refined fuel."*  
-— Me, probably after too much coffee ☕
-
----
-
-### Fun Fact 🎲
 I believe every dataset has a story to tell. My job? I'm the translator between data and humans. Sometimes the data speaks in whispers, sometimes it shouts — either way, I'm listening.
 
 ---
