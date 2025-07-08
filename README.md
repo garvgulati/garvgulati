@@ -1,22 +1,5 @@
 # Hey there, I'm Garv 👋
 
-
-I turn raw data into actionable insights — and somehow make algorithms look elegant.
-
-**Currently:** Building intelligent systems that solve real-world problems.  
-**Previously:** Optimizing delivery routes and analyzing bike-sharing patterns.  
-**Always:** Caffeinated and curious about the next dataset.
-
----
-
-## The Journey So Far 🚀
-
-From crunching numbers to crafting AI solutions, I've been on a mission to bridge the gap between complex data and practical solutions.
-
-**Plot twist:** The messiest datasets often hide the most beautiful insights ⚡
-
----
-
 ## What I'm Doing Currently 🔧
 
 ### 🚴 **Cyclistic Data Analysis**
