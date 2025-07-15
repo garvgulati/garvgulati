@@ -12,22 +12,24 @@ Automated insights using ML techniques
 
 As AI and ML continue to evolve, understanding their impact on data-driven decision-making is crucial. I'm excited to explore how these models can uncover hidden patterns and improve predictive analytics.
 
-🔍 What I'm Learning
+### 🔍 What I'm Learning
+
 ✔ NLP & Sentiment Analysis – Extracting meaning from text
+
 ✔ Time Series Forecasting – Predicting trends from historical data
+
 ✔ Feature Engineering – Enhancing model accuracy
+
 ✔ Model Interpretability – Making ML insights explainable
 
-🤖 Future Goals
+
+### 🤖 Future Goals
+
 Implement deep learning models (LSTMs, Transformers) for better predictions
 
 Explore reinforcement learning in trading strategies
 
 Build automated dashboards for real-time sentiment tracking
-
-Feel free to explore, suggest improvements, or collaborate! Let’s learn together. 🚀
-
-
 
 ## What I Recently Did 🔧
 
