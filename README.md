@@ -33,34 +33,6 @@ Explore reinforcement learning in trading strategies
 
 Build automated dashboards for real-time sentiment tracking
 
-## What I Recently Did 🔧
-
-### 🚴 **Cyclistic Data Analysis**
-*Making sense of bike-sharing chaos*
-
-Picture this: Raw data from a bike-sharing company, thousands of rides, and one mission — find the patterns that matter.
-
-What I discovered:
-- Key user behavior trends
-- Strategic recommendations for engagement
-- Insights that actually move the needle
-- Data storytelling that stakeholders understand
-
-**The result:** Turned spreadsheet chaos into strategic gold.
-
-### 🛣️ **Route Delivery Optimization**
-*Because efficiency is everything*
-
-Built an AI-powered system that doesn't just find routes — it finds the *best* routes.
-
-The magic:
-- Multiple algorithm comparison
-- Real-time path cost calculation
-- Visual route display
-- Lowest-cost path selection
-
-**The vibe:** Making delivery logistics look effortless (spoiler: it's not, but AI makes it seem that way).
-
 ---
 
 ## Tech Stack & Expertise 🎯
