@@ -98,14 +98,4 @@ Whether you're into data science, AI optimization, or just want to chat about tu
 
 **Find me here:**
 - 💼 [LinkedIn](https://www.linkedin.com/in/garvgulati)
-- 📧 Slide into my DMs (or just [email](gulati.garv03@gmail.com))
-
----
-
-I believe every dataset has a story to tell. My job? I'm the translator between data and humans. Sometimes the data speaks in whispers, sometimes it shouts — either way, I'm listening.
-
----
-
-**Thanks for stopping by!** 🌟
-
-*Now go forth and let your data tell its story.*
+- 📧 [My email](gulati.garv03@gmail.com))
