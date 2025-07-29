@@ -98,4 +98,4 @@ Whether you're into data science, AI optimization, or just want to chat about tu
 
 **Find me here:**
 - 💼 [LinkedIn](https://www.linkedin.com/in/garvgulati)
-- 📧 [My email](gulati.garv03@gmail.com))
+- 📧 [My email](gulati.garv03@gmail.com)
