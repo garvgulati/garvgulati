@@ -4,6 +4,8 @@
 
 I'm currently diving deep into machine learning models and how they transform the way we analyze and interpret data. This project is part of my learning journey, where I experiment with:
 
+- **2+** years diving deep into data
+
 Sentiment analysis to gauge market sentiment
 
 Data correlation between news and stock movements
@@ -108,35 +110,6 @@ tools = [
 </td>
 </tr>
 </table>
-
-### 🎨 **My Data Philosophy**
-```python
-def garv_approach():
-    """
-    How I tackle data challenges
-    """
-    mindset = {
-        "step_1": "Ask the right questions first",
-        "step_2": "Let data guide the narrative", 
-        "step_3": "Build solutions that scale",
-        "secret_ingredient": "☕ + endless curiosity"
-    }
-    
-    return "Turning data chaos into business clarity"
-
-# Output: Smart decisions, powered by insights
-```
-
----
-
-## The Numbers Game 📊
-
-- **2+** years diving deep into data
-- **Multiple** optimization algorithms mastered
-- **Countless** hours turning chaos into clarity
-- **1** very passionate data enthusiast
-
----
 
 ## Current Obsessions 🎯
 
