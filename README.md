@@ -4,7 +4,7 @@
 
 I'm currently diving deep into machine learning models and how they transform the way we analyze and interpret data. This project is part of my learning journey, where I experiment with:
 
-- **2+** years diving deep into data
+**2+** years diving deep into data
 
 Sentiment analysis to gauge market sentiment
 
